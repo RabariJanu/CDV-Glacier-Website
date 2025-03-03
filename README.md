@@ -9,6 +9,8 @@ Figma Design File: https://www.figma.com/design/rWRrL7YCgvcR0SMASGwRrd/Glassware
 Project Repository: https://www.figma.com/design/rWRrL7YCgvcR0SMASGwRrd/Glassware(Pro6)?node-id=0-1&t=2NTbNv4Z9u8en6Wx-1
 
 Live Preview (if applicable): https://www.figma.com/design/rWRrL7YCgvcR0SMASGwRrd/Glassware(Pro6)?node-id=0-1&t=2NTbNv4Z9u8en6Wx-1
+
+
 📂 Project Structure
 
 /figma-design-files  # Contains Figma exported assets
